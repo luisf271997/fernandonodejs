@@ -1,0 +1,93 @@
+# Archivos temporales
+*~
+
+# Directorios generados
+node_modules/
+bower_components/
+
+# Archivos de registro y datos
+*.log
+*.sql
+*.sqlite
+
+# Archivos de compilación
+*.class
+*.war
+*.ear
+*.jar
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Directorio de dependencias
+.idea/
+
+# Directorio de construcción
+/build/
+
+# Dependencias de package manager
+# (ejemplo: para proyectos Node.js)
+/node_modules/
+
+# Dependencias de gestor de paquetes (Composer para PHP)
+/vendor/
+
+# Dependencias de gestor de paquetes (Bundler para Ruby)
+/.bundle/
+
+# Dependencias de gestor de paquetes (PIP para Python)
+/venv/
+*.pyc
+*.pyo
+__pycache__/
+
+# Dependencias de gestor de paquetes (Maven para Java)
+/target/
+
+# Dependencias de gestor de paquetes (Gradle para Java)
+/.gradle/
+/build/
+
+# Dependencias de gestor de paquetes (NuGet para .NET)
+/packages/
+*.nupkg
+*.pdb
+*.dll
+*.csv
+
+# Dependencias de gestor de paquetes (Composer para PHP)
+/vendor/
+
+# Dependencias de gestor de paquetes (npm para Node.js)
+/node_modules/
+
+# Dependencias de gestor de paquetes (yarn para Node.js)
+/yarn-error.log
+/yarn.lock
+
+# Dependencias de gestor de paquetes (Pipenv para Python)
+/Pipfile.lock
+
+# IDE y archivos de configuración
+/.idea/
+*.iml
+*.ipr
+*.iws
+
+# Archivos de compilación de Eclipse
+/.settings/
+
+# Directorio de salida de Eclipse
+/bin/
+
+# Archivos de configuración de NetBeans
+/nbproject/private/
+/nbproject/Makefile-*
+
+# Directorio de salida de NetBeans
+/build/
+
+# Archivos de configuración de Visual Studio Code
+.vscode/
